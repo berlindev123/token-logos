@@ -1,15 +1,17 @@
 # Token logos
 
 ## Overview
-Oolongswap token logos repository is a comprehensive, up-to-date collection of information of various crypto tokens.
+OolongSwap token logos repository is a comprehensive, up-to-date collection of information of various tokens on Boba Network. Feel free to use this logo repository in your Boba project! 
+
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
 ## How to add token
 
-Please note that __brand new tokens are not accepted__,
-the projects have to be sound, with information available, and __non-minimal circulation__
+Please make sure the token be added have some information available, and __decent liquidity__. 
 
-**Adding an ERC20 token checklist**:
+__Brand new tokens will not be accepted.__
+
+### Adding an new token logo:
 - [ ] Fork the Github repository
 - [ ] Create folder with name of token smartcontact address in _checksum format_ `/<chainId>/<token_smartcontract_address>/`. (e.g `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610`)
 - [ ] Tell your designer that token image must be in PNG format, preferably transparent background, recommended size 256x256px, with max file size of 100kB.
