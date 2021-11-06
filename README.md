@@ -19,9 +19,9 @@ the projects have to be sound, with information available, and __non-minimal cir
 4. Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610/logo.png`
 5. Create a pull request to the main branch of the this repo
 6. please add the following project information in the comment section of the PR: 
-   - Contract addresses
-   - Social media links
-   - Official website
+   - [ ] Contract addresses
+   - [ ] Social media links
+   - [ ] Official website
 
 ## Disclaimer
 Oolongswap team allows anyone to submit new token logos to this repository. However, this does not mean that we are in direct partnership with these projects.
