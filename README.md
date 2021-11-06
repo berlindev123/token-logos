@@ -13,12 +13,12 @@ the projects have to be sound, with information available, and __non-minimal cir
 2. The token must have at least __$50,000__ worth of liquidity at [OolongSwap](https://oolongswap.com/) (Check stats on [Analytics](https://info.oolongswap.com/))
 
 ### Adding an new token logo
-- [ ] Fork the Github repository
-- [ ] Create folder with name of token smartcontact address in _checksum format_ `/<chainId>/<token_smartcontract_address>/`. (e.g `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610`)
-- [ ] Tell your designer that token image must be in PNG format, preferably transparent background, recommended size 256x256px, with max file size of 100kB.
-- [ ] Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610/logo.png`
-- [ ] Create a pull request to the main branch of the this repo
-- [ ] please add the following project information in the comment section of the PR: 
+1. Fork the Github repository
+2. Create folder with name of token smartcontact address in _checksum format_ `/<chainId>/<token_smartcontract_address>/`. (e.g `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610`)
+3. Tell your designer that token image must be in PNG format, preferably transparent background, recommended size 256x256px, with max file size of 100kB.
+4. Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610/logo.png`
+5. Create a pull request to the main branch of the this repo
+6. please add the following project information in the comment section of the PR: 
    - Contract addresses
    - Social media links
    - Official website
