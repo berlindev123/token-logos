@@ -10,9 +10,9 @@ Such a large collection can be maintained only through a community effort, so _f
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__:
 1. The project must be at least __5__ days old. (after mainnet launch)
-2. The token must have at least __$50,000__ worth of liquidity at [OolongSwap](https://oolongswap.com/)
+2. The token must have at least __$50,000__ worth of liquidity at [OolongSwap](https://oolongswap.com/) (Check stats on [Analytics](https://info.oolongswap.com/))
 
-### Adding an new token logo:
+### Adding an new token logo
 - [ ] Fork the Github repository
 - [ ] Create folder with name of token smartcontact address in _checksum format_ `/<chainId>/<token_smartcontract_address>/`. (e.g `/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610`)
 - [ ] Tell your designer that token image must be in PNG format, preferably transparent background, recommended size 256x256px, with max file size of 100kB.
